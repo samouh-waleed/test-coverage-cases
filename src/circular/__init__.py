@@ -1,0 +1,1 @@
+"""Circular module demonstrating circular imports."""
